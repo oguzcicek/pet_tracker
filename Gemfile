@@ -42,6 +42,7 @@ group :development, :test do
   gem "factory_bot_rails"
   gem "faker"
   gem "database_cleaner-active_record"
+  gem 'mock_redis'
 end
 
 group :development do
